@@ -63,7 +63,7 @@
     <ClCompile Include="prog\Game.cpp">
       <Filter>ソース ファイル\Scene</Filter>
     </ClCompile>
-    <ClCompile Include="GameClear.cpp">
+    <ClCompile Include="prog\GameClear.cpp">
       <Filter>ソース ファイル\Scene</Filter>
     </ClCompile>
     <ClCompile Include="prog\GameOver.cpp">

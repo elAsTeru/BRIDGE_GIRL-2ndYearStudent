@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="GameClear.cpp" />
+    <ClCompile Include="prog\GameClear.cpp" />
     <ClCompile Include="prog\Bridge.cpp" />
     <ClCompile Include="prog\camera.cpp" />
     <ClCompile Include="prog\CrowEnemy.cpp" />
